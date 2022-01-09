@@ -20,9 +20,9 @@
 
 <h3 align="center">
     🔹
-    <a href="#">Report Bug</a> 
+    <a href="https://github.com/gasperpb/Potfolio-react/issues">Report Bug</a> 
     🔹
-    <a href="#">Request Feature</a>
+    <a href="https://github.com/gasperpb/Potfolio-react/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
